@@ -9,19 +9,6 @@ Result:
 [('Álvaro Morata', '66,00 Mill. €'),
  ('Tiemoué Bakayoko', '40,00 Mill. €'),
  ('Danny Drinkwater', '37,90 Mill. €'),
- ('Antonio Rüdiger', '35,00 Mill. €'),
- ('Davide Zappacosta', '25,00 Mill. €'),
- ('Emerson', '20,00 Mill. €'),
- ('Olivier Giroud', '17,00 Mill. €'),
- ('Ross Barkley', '16,90 Mill. €'),
- ('Willy Caballero', 'Free transfer'),
- ('Diego Costa', '66,00 Mill. €'),
- ('Nemanja Matic', '44,70 Mill. €'),
- ('Nathan Aké', '22,80 Mill. €'),
- ('Juan Cuadrado', '20,00 Mill. €'),
- ('Asmir Begovic', '11,50 Mill. €'),
- ...
-
 
 TODO: 
 -Refactor out of notebook
