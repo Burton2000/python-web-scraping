@@ -5,11 +5,11 @@ https://www.transfermarkt.com/premier-league/transfers/wettbewerb/GB1/plus/?sais
 
 To do this I use python with the requests and beautifulsoup libraries. Check the python notebook to see how it's done!
 
-Result:<br />
+#### Result:<br />
 [('Álvaro Morata', '66,00 Mill. €'),<br />
 ('Tiemoué Bakayoko', '40,00 Mill. €'),<br />
 ('Danny Drinkwater', '37,90 Mill. €'),<br />
 ...]
 
-TODO:<br />
--Refactor out of notebook
+#### TODO:<br />
+* Refactor out of notebook
